@@ -1,5 +1,5 @@
 # Twenty One Pilots
-<br/>This web page is about my favorite band, Twenty One Pilots.
+<br/>This web page is about my favorite band, Twenty One Pilots.<br/>
 
 ## About
 ![A photo of Tyler and Josh from a magazine](https://www.rocksound.tv/assets/uploads/TWENTYONEPILOTS_ROCKSOUND_BRADHEATON2018_01.jpg)
